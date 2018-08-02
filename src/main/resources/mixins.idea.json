@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.idea.core.hooks",
+  "refmap": "mixins.common.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "ChunkLoaderHook"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

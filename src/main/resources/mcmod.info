@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "idea",
+    "name": "Idea",
+    "description": "idea",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "asher"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [
+      ""
+    ]
+  }
+]
